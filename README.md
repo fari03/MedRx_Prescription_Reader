@@ -7,6 +7,6 @@ The Medical Prescription Reader is a software project that aims to automate the 
 3.  Information Extraction: The system employs advanced NLP algorithms to extract relevant information from the prescription text, such as patient name, medication    names, dosages, frequencies, and instructions.
 4.  User-Friendly Interface: The system provides a user-friendly interface that allows users to easily upload prescriptions, view extracted information, and make corrections if needed.
  # Usage
- Upload Prescription: Use the web application to upload a prescription image or scanned document.
- Review Extracted Information: The system will extract relevant information from the prescription and display it on the screen for review.
- Verify and Correct Information: Review the extracted information for accuracy and make corrections if needed.
+ 1. Upload Prescription: Use the web application to upload a prescription image or scanned document.
+ 2. Review Extracted Information: The system will extract relevant information from the prescription and display it on the screen for review.
+ 3. Verify and Correct Information: Review the extracted information for accuracy and make corrections if needed.
